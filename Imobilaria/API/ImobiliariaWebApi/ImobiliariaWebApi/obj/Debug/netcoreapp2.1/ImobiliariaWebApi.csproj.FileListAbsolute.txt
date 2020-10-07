@@ -1,0 +1,16 @@
+C:\Users\Matheus Nascimento\Desktop\Imobilaria\API\ImobiliariaWebApi\ImobiliariaWebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Matheus Nascimento\Desktop\Imobilaria\API\ImobiliariaWebApi\ImobiliariaWebApi\bin\Debug\netcoreapp2.1\ImobiliariaWebApi.deps.json
+C:\Users\Matheus Nascimento\Desktop\Imobilaria\API\ImobiliariaWebApi\ImobiliariaWebApi\bin\Debug\netcoreapp2.1\ImobiliariaWebApi.runtimeconfig.json
+C:\Users\Matheus Nascimento\Desktop\Imobilaria\API\ImobiliariaWebApi\ImobiliariaWebApi\bin\Debug\netcoreapp2.1\ImobiliariaWebApi.runtimeconfig.dev.json
+C:\Users\Matheus Nascimento\Desktop\Imobilaria\API\ImobiliariaWebApi\ImobiliariaWebApi\bin\Debug\netcoreapp2.1\ImobiliariaWebApi.dll
+C:\Users\Matheus Nascimento\Desktop\Imobilaria\API\ImobiliariaWebApi\ImobiliariaWebApi\obj\Debug\netcoreapp2.1\ImobiliariaWebApi.csprojAssemblyReference.cache
+C:\Users\Matheus Nascimento\Desktop\Imobilaria\API\ImobiliariaWebApi\ImobiliariaWebApi\obj\Debug\netcoreapp2.1\ImobiliariaWebApi.AssemblyInfoInputs.cache
+C:\Users\Matheus Nascimento\Desktop\Imobilaria\API\ImobiliariaWebApi\ImobiliariaWebApi\obj\Debug\netcoreapp2.1\ImobiliariaWebApi.AssemblyInfo.cs
+C:\Users\Matheus Nascimento\Desktop\Imobilaria\API\ImobiliariaWebApi\ImobiliariaWebApi\obj\Debug\netcoreapp2.1\ImobiliariaWebApi.RazorAssemblyInfo.cache
+C:\Users\Matheus Nascimento\Desktop\Imobilaria\API\ImobiliariaWebApi\ImobiliariaWebApi\obj\Debug\netcoreapp2.1\ImobiliariaWebApi.RazorAssemblyInfo.cs
+C:\Users\Matheus Nascimento\Desktop\Imobilaria\API\ImobiliariaWebApi\ImobiliariaWebApi\obj\Debug\netcoreapp2.1\ImobiliariaWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Matheus Nascimento\Desktop\Imobilaria\API\ImobiliariaWebApi\ImobiliariaWebApi\obj\Debug\netcoreapp2.1\ImobiliariaWebApi.genruntimeconfig.cache
+C:\Users\Matheus Nascimento\Desktop\Imobilaria\API\ImobiliariaWebApi\ImobiliariaWebApi\bin\Debug\netcoreapp2.1\ImobiliariaWebApi.pdb
+C:\Users\Matheus Nascimento\Desktop\Imobilaria\API\ImobiliariaWebApi\ImobiliariaWebApi\obj\Debug\netcoreapp2.1\ImobiliariaWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Nascimento\Desktop\Imobilaria\API\ImobiliariaWebApi\ImobiliariaWebApi\obj\Debug\netcoreapp2.1\ImobiliariaWebApi.dll
+C:\Users\Matheus Nascimento\Desktop\Imobilaria\API\ImobiliariaWebApi\ImobiliariaWebApi\obj\Debug\netcoreapp2.1\ImobiliariaWebApi.pdb

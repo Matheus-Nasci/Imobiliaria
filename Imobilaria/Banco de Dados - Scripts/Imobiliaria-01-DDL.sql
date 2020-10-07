@@ -1,0 +1,36 @@
+CREATE DATABASE Imobiliaria;
+
+GO
+USE Imobiliaria;
+
+CREATE TABLE TipoUsuario (
+	IdTipoUsuario	INT PRIMARY KEY IDENTITY
+	,Titulo			VARCHAR (255) UNIQUE
+);
+GO
+
+CREATE TABLE Usuario (
+	IdUsuario	INT PRIMARY KEY IDENTITY
+	,Nome			VARCHAR(255) NOT NULL
+	,Email			VARCHAR (255) NOT NULL UNIQUE
+	,Senha			VARCHAR (255) NOT NULL
+	,Telefone		CHAR(11) NOT NULL
+	,CPF			CHAR (11) NOT NULL UNIQUE
+	,IdTipoUsuario	INT FOREIGN KEY REFERENCES TipoUsuario(IdTipoUsuario)
+);
+GO
+
+CREATE TABLE Situacao (
+	IdSituacao		INT PRIMARY KEY IDENTITY
+	,TipoSituacao	VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE Aluguel (
+	IdAluguel		INT PRIMARY KEY IDENTITY
+	,Endereco			VARCHAR(255) NOT NULL
+	,Valor			VARCHAR(255) NOT NULL
+	,DataVencimento VARCHAR(255) NOT NULL
+	,IdUsuario		INT FOREIGN KEY REFERENCES Usuario(IdUsuario)
+	,IdSituacao		INT FOREIGN KEY REFERENCES Situacao(IdSituacao)
+);
+GO
